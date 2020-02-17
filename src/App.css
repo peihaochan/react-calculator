@@ -1,0 +1,31 @@
+.calculatorBody {
+    max-width: 300px;
+    margin: auto;
+}
+
+
+
+button {
+    width: 25%;
+    height: 60px;
+    cursor: pointer;
+    font-size: 2rem;
+    border: 1px solid white;
+    outline: none;
+    background-color: lightblue;
+}
+
+.clearButton {
+    width: 100%;
+}
+
+.result {
+    height: 60px;
+    border: 1px white solid;
+    background-color:lightgray;
+}
+
+.result p {
+    font-size: 2rem;
+    margin: 5px;
+}
